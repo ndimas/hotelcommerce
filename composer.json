@@ -1,7 +1,7 @@
 {
-    "require": {
-        "ext-gd": "*",
- "Ext-soap“: "*",
- "Ext-openssl“: "*"
-    }
+	"require": {
+		"ext-gd": "*",
+		"Ext-soap": " * ",
+		"Ext-openssl": " * "
+	}
 }
