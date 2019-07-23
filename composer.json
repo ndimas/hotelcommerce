@@ -2,8 +2,6 @@
 	"require": {
 		"ext-curl": "*",
 		"ext-gd": "*",
-		"Ext-mcrypt": " * ",
-		"Ext-mbstring": " * ",
 		"Ext-soap": " * ",
 		"Ext-openssl": " * "
 	}

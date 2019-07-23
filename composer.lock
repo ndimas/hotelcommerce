@@ -15,8 +15,6 @@
     "platform": {
         "ext-curl": "*",
         "ext-gd": "*",
-        "Ext-mcrypt": " * ",
-        "Ext-mbstring": " * ",
         "ext-soap": " * ",
         "ext-openssl": " * "
     },
