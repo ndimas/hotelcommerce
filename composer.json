@@ -1,0 +1,8 @@
+{
+	"require": {
+		"ext-curl": "*",
+		"ext-gd": "*",
+		"Ext-soap": " * ",
+		"Ext-openssl": " * "
+	}
+}
